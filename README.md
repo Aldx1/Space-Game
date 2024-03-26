@@ -1,8 +1,8 @@
 # Space game 
 
-Space game built in C++ for a University project. 
+Space game built with C++ for a University project. 
 
-You should be able to clone the code and run the executable from the Release folder. 
+You should be able to clone the code (or download the zip then extract) and run the executable from the Release folder. 
 
 If you try to build the project in Visual Studio you may have a few linking errors. 
 Potentital fix:
