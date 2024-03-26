@@ -1,0 +1,260 @@
+﻿  Game.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game/Game.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(106,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/Game.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(115,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/Game.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(124,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/Game.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\Game\Game.cpp(147,17): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  GameActions.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game/GameActions.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(106,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/GameActions.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(115,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/GameActions.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(124,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/GameActions.cpp')
+  
+  GameCreator.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game/GameCreator.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(106,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/GameCreator.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(115,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/GameCreator.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(124,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/GameCreator.cpp')
+  
+  GameScene.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game/GameScene.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(106,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/GameScene.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(115,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/GameScene.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(124,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game/GameScene.cpp')
+  
+  main.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(106,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(115,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(124,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Collisions.cpp
+  Event.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SubSystems/Event.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(106,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SubSystems/Event.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(115,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SubSystems/Event.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(124,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SubSystems/Event.cpp')
+  
+  FileLoader.cpp
+  Generator.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SubSystems/Generator.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(106,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SubSystems/Generator.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(115,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SubSystems/Generator.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(124,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SubSystems/Generator.cpp')
+  
+  Graphics.cpp
+  HumanInterface.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SubSystems/HumanInterface.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(106,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SubSystems/HumanInterface.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(115,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SubSystems/HumanInterface.cpp')
+  
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(124,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SubSystems/HumanInterface.cpp')
+  
+  Physics.cpp
+  RendWindow.cpp
+  Sound.cpp
+  Generating Code...
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: int __cdecl sf::Time::asMilliseconds(void)const " (__imp_?asMilliseconds@Time@sf@@QEBAHXZ) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl sf::Time::asMilliseconds(void)const " (__imp_?asMilliseconds@Time@sf@@QEBAHXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Graphics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+RendWindow.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+HumanInterface.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+Physics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setStyle(unsigned int)" (__imp_?setStyle@Text@sf@@QEAAXI@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setStyle(unsigned int)" (__imp_?setStyle@Text@sf@@QEAAXI@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)
+Graphics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)
+RendWindow.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::Text const &)" (__imp_??0Text@sf@@QEAA@AEBV01@@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::Text const &)" (__imp_??0Text@sf@@QEAA@AEBV01@@Z)
+Graphics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::Text const &)" (__imp_??0Text@sf@@QEAA@AEBV01@@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sound::play(void)" (__imp_?play@Sound@sf@@QEAAXXZ) referenced in function "public: void __cdecl GameScene::playB(void)" (?playB@GameScene@@QEAAXXZ)
+Sound.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sound::play(void)" (__imp_?play@Sound@sf@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sound::setLoop(bool)" (__imp_?setLoop@Sound@sf@@QEAAX_N@Z) referenced in function "public: void __cdecl GameScene::playB(void)" (?playB@GameScene@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameScene.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)
+GameActions.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QEAAXM@Z) referenced in function "public: void __cdecl Entity::setRotation(float)" (?setRotation@Entity@@QEAAXM@Z)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QEAAXM@Z)
+GameActions.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Transformable::getRotation(void)const " (__imp_?getRotation@Transformable@sf@@QEBAMXZ) referenced in function "public: float __cdecl Entity::getRotation(void)" (?getRotation@Entity@@QEAAMXZ)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Transformable::getRotation(void)const " (__imp_?getRotation@Transformable@sf@@QEBAMXZ)
+Physics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Transformable::getRotation(void)const " (__imp_?getRotation@Transformable@sf@@QEBAMXZ)
+GameActions.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sound::stop(void)" (__imp_?stop@Sound@sf@@QEAAXXZ) referenced in function "public: void __cdecl GameScene::stopB(void)" (?stopB@GameScene@@QEAAXXZ)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ) referenced in function "public: void __cdecl GameScene::closeWindow(void)" (?closeWindow@GameScene@@QEAAXXZ)
+HumanInterface.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ) referenced in function "private: void __cdecl MemoryManager<class sf::Texture>::Init(int)" (?Init@?$MemoryManager@VTexture@sf@@@@AEAAXH@Z)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ) referenced in function "public: void * __cdecl sf::Texture::`vector deleting destructor'(unsigned int)" (??_ETexture@sf@@QEAAPEAXI@Z)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ) referenced in function "public: __cdecl GameScene::GameScene(class Physics *,class Graphics *,class Sound *)" (??0GameScene@@QEAA@PEAVPhysics@@PEAVGraphics@@PEAVSound@@@Z)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ) referenced in function "public: __cdecl GameScene::~GameScene(void)" (??1GameScene@@QEAA@XZ)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &,class sf::Rect<int> const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@AEBV?$Rect@H@1@@Z) referenced in function "private: void __cdecl GameScene::InitObjects(void)" (?InitObjects@GameScene@@AEAAXXZ)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ) referenced in function "private: void __cdecl GameScene::InitObjects(void)" (?InitObjects@GameScene@@AEAAXXZ)
+Graphics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+RendWindow.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z) referenced in function "private: void __cdecl GameScene::InitObjects(void)" (?InitObjects@GameScene@@AEAAXXZ)
+Graphics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Sprite & __cdecl sf::Sprite::operator=(class sf::Sprite const &)" (__imp_??4Sprite@sf@@QEAAAEAV01@AEBV01@@Z) referenced in function "public: void __cdecl Graphics::addBack(class sf::Sprite)" (?addBack@Graphics@@QEAAXVSprite@sf@@@Z)
+GameScene.obj : error LNK2019: unresolved external symbol "public: __cdecl b2World::~b2World(void)" (??1b2World@@QEAA@XZ) referenced in function "public: void * __cdecl b2World::`scalar deleting destructor'(unsigned int)" (??_Gb2World@@QEAAPEAXI@Z)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sound::Sound(class sf::SoundBuffer const &)" (__imp_??0Sound@sf@@QEAA@AEBVSoundBuffer@1@@Z) referenced in function "private: void __cdecl GameScene::InitSounds(void)" (?InitSounds@GameScene@@AEAAXXZ)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sound::Sound(class sf::Sound const &)" (__imp_??0Sound@sf@@QEAA@AEBV01@@Z) referenced in function "public: static void __cdecl std::_Default_allocator_traits<class std::allocator<class sf::Sound> >::construct<class sf::Sound,class sf::Sound &>(class std::allocator<class sf::Sound> &,class sf::Sound * const,class sf::Sound &)" (??$construct@VSound@sf@@AEAV12@@?$_Default_allocator_traits@V?$allocator@VSound@sf@@@std@@@std@@SAXAEAV?$allocator@VSound@sf@@@1@QEAVSound@sf@@AEAV34@@Z)
+GameScene.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sound::~Sound(void)" (__imp_??1Sound@sf@@UEAA@XZ) referenced in function "public: virtual void * __cdecl sf::Sound::`scalar deleting destructor'(unsigned int)" (??_GSound@sf@@UEAAPEAXI@Z)
+Collisions.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> __cdecl sf::Transform::transformPoint(class sf::Vector2<float> const &)const " (__imp_?transformPoint@Transform@sf@@QEBA?AV?$Vector2@M@2@AEBV32@@Z) referenced in function "public: bool __cdecl Collision::checkPointsCollide(class Entity *,class Entity *)" (?checkPointsCollide@Collision@@QEAA_NPEAVEntity@@0@Z)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> __cdecl sf::Transform::transformPoint(class sf::Vector2<float> const &)const " (__imp_?transformPoint@Transform@sf@@QEBA?AV?$Vector2@M@2@AEBV32@@Z)
+Collisions.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Transform const & __cdecl sf::Transformable::getTransform(void)const " (__imp_?getTransform@Transformable@sf@@QEBAAEBVTransform@2@XZ) referenced in function "public: class sf::Transform __cdecl Entity::getTransform(void)" (?getTransform@Entity@@QEAA?AVTransform@sf@@XZ)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Transform const & __cdecl sf::Transformable::getTransform(void)const " (__imp_?getTransform@Transformable@sf@@QEBAAEBVTransform@2@XZ)
+Collisions.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual class sf::Vector2<float> __cdecl sf::ConvexShape::getPoint(unsigned __int64)const " (__imp_?getPoint@ConvexShape@sf@@UEBA?AV?$Vector2@M@2@_K@Z) referenced in function "public: class sf::Vector2<float> __cdecl Entity::getPoint(unsigned __int64)" (?getPoint@Entity@@QEAA?AV?$Vector2@M@sf@@_K@Z)
+Generator.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual class sf::Vector2<float> __cdecl sf::ConvexShape::getPoint(unsigned __int64)const " (__imp_?getPoint@ConvexShape@sf@@UEBA?AV?$Vector2@M@2@_K@Z)
+Physics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual class sf::Vector2<float> __cdecl sf::ConvexShape::getPoint(unsigned __int64)const " (__imp_?getPoint@ConvexShape@sf@@UEBA?AV?$Vector2@M@2@_K@Z)
+FileLoader.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::SoundBuffer::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@SoundBuffer@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "public: static bool __cdecl FileLoader::loadSounds(class MemoryManager<class sf::SoundBuffer> *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadSounds@FileLoader@@SA_NPEAV?$MemoryManager@VSoundBuffer@sf@@@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+FileLoader.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z) referenced in function "public: static bool __cdecl FileLoader::loadTextures(class MemoryManager<class sf::Texture> *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadTextures@FileLoader@@SA_NPEAV?$MemoryManager@VTexture@sf@@@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+FileLoader.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "public: static bool __cdecl FileLoader::loadFonts(class MemoryManager<class sf::Font> *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadFonts@FileLoader@@SA_NPEAV?$MemoryManager@VFont@sf@@@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z) referenced in function "public: void __cdecl Entity::setConvPos(class sf::Vector2<float>)" (?setConvPos@Entity@@QEAAXV?$Vector2@M@sf@@@Z)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ) referenced in function "public: class sf::Vector2<float> __cdecl Entity::getConvPos(void)" (?getConvPos@Entity@@QEAA?AV?$Vector2@M@sf@@XZ)
+Physics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setTexture(class sf::Texture const *,bool)" (__imp_?setTexture@Shape@sf@@QEAAXPEBVTexture@2@_N@Z) referenced in function "public: void __cdecl Entity::setTextCirc(class sf::Texture &)" (?setTextCirc@Entity@@QEAAXAEAVTexture@sf@@@Z)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: void __cdecl Bullet::init(void)" (?init@Bullet@@QEAAXXZ)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(float,unsigned __int64)" (__imp_??0CircleShape@sf@@QEAA@M_K@Z) referenced in function "public: __cdecl Entity::Entity(void)" (??0Entity@@QEAA@XZ)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::CircleShape::setRadius(float)" (__imp_?setRadius@CircleShape@sf@@QEAAXM@Z) referenced in function "public: void __cdecl DestroyedAsteroid::init(void)" (?init@DestroyedAsteroid@@QEAAXXZ)
+Physics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::CircleShape::setRadius(float)" (__imp_?setRadius@CircleShape@sf@@QEAAXM@Z)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::CircleShape::getRadius(void)const " (__imp_?getRadius@CircleShape@sf@@QEBAMXZ) referenced in function "private: void __cdecl Generator::RemoveEntitites(class std::vector<class Entity *,class std::allocator<class Entity *> > &)" (?RemoveEntitites@Generator@@AEAAXAEAV?$vector@PEAVEntity@@V?$allocator@PEAVEntity@@@std@@@std@@@Z)
+Physics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::CircleShape::getRadius(void)const " (__imp_?getRadius@CircleShape@sf@@QEBAMXZ)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::CircleShape::setPointCount(unsigned __int64)" (__imp_?setPointCount@CircleShape@sf@@QEAAX_K@Z) referenced in function "public: void __cdecl Entity::setPointCirc(unsigned __int64)" (?setPointCirc@Entity@@QEAAX_K@Z)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ) referenced in function "int `public: __cdecl Entity::Entity(void)'::`1'::dtor$1" (?dtor$1@?0???0Entity@@QEAA@XZ@4HA)
+RendWindow.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::ConvexShape::ConvexShape(unsigned __int64)" (__imp_??0ConvexShape@sf@@QEAA@_K@Z) referenced in function "public: __cdecl Entity::Entity(void)" (??0Entity@@QEAA@XZ)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::ConvexShape::setPointCount(unsigned __int64)" (__imp_?setPointCount@ConvexShape@sf@@QEAAX_K@Z) referenced in function "public: void __cdecl Entity::setPointConv(unsigned __int64)" (?setPointConv@Entity@@QEAAX_K@Z)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual unsigned __int64 __cdecl sf::ConvexShape::getPointCount(void)const " (__imp_?getPointCount@ConvexShape@sf@@UEBA_KXZ) referenced in function "public: unsigned __int64 __cdecl Entity::getPointConv(void)" (?getPointConv@Entity@@QEAA_KXZ)
+Physics.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual unsigned __int64 __cdecl sf::ConvexShape::getPointCount(void)const " (__imp_?getPointCount@ConvexShape@sf@@UEBA_KXZ)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::ConvexShape::setPoint(unsigned __int64,class sf::Vector2<float> const &)" (__imp_?setPoint@ConvexShape@sf@@QEAAX_KAEBV?$Vector2@M@2@@Z) referenced in function "public: void __cdecl Entity::setPoints(class sf::Vector2<float> * const)" (?setPoints@Entity@@QEAAXQEAV?$Vector2@M@sf@@@Z)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::ConvexShape::~ConvexShape(void)" (__imp_??1ConvexShape@sf@@UEAA@XZ) referenced in function "int `public: __cdecl Entity::Entity(void)'::`1'::dtor$0" (?dtor$0@?0???0Entity@@QEAA@XZ@4HA)
+RendWindow.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::ConvexShape::~ConvexShape(void)" (__imp_??1ConvexShape@sf@@UEAA@XZ)
+Generator.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2World::DestroyBody(class b2Body *)" (?DestroyBody@b2World@@QEAAXPEAVb2Body@@@Z) referenced in function "private: void __cdecl Generator::deleteBodies(class b2World *,class std::vector<class Entity *,class std::allocator<class Entity *> > &)" (?deleteBodies@Generator@@AEAAXPEAVb2World@@AEAV?$vector@PEAVEntity@@V?$allocator@PEAVEntity@@@std@@@std@@@Z)
+Generator.obj : error LNK2001: unresolved external symbol "public: virtual unsigned __int64 __cdecl sf::ConvexShape::getPointCount(void)const " (?getPointCount@ConvexShape@sf@@UEBA_KXZ)
+Generator.obj : error LNK2001: unresolved external symbol "public: virtual class sf::Vector2<float> __cdecl sf::ConvexShape::getPoint(unsigned __int64)const " (?getPoint@ConvexShape@sf@@UEBA?AV?$Vector2@M@2@_K@Z)
+Generator.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Shape::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Shape@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+Generator.obj : error LNK2001: unresolved external symbol "public: virtual unsigned __int64 __cdecl sf::CircleShape::getPointCount(void)const " (?getPointCount@CircleShape@sf@@UEBA_KXZ)
+Generator.obj : error LNK2001: unresolved external symbol "public: virtual class sf::Vector2<float> __cdecl sf::CircleShape::getPoint(unsigned __int64)const " (?getPoint@CircleShape@sf@@UEBA?AV?$Vector2@M@2@_K@Z)
+Generator.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B) referenced in function "public: void __cdecl Bullet::init(void)" (?init@Bullet@@QEAAXXZ)
+Graphics.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::ConvexShape::ConvexShape(class sf::ConvexShape const &)" (__imp_??0ConvexShape@sf@@QEAA@AEBV01@@Z) referenced in function "public: void __cdecl Graphics::drawScene(class sf::Text,class std::vector<class Entity *,class std::allocator<class Entity *> >)" (?drawScene@Graphics@@QEAAXVText@sf@@V?$vector@PEAVEntity@@V?$allocator@PEAVEntity@@@std@@@std@@@Z)
+Graphics.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(class sf::CircleShape const &)" (__imp_??0CircleShape@sf@@QEAA@AEBV01@@Z) referenced in function "public: void __cdecl Graphics::drawScene(class sf::Text,class std::vector<class Entity *,class std::allocator<class Entity *> >)" (?drawScene@Graphics@@QEAAXVText@sf@@V?$vector@PEAVEntity@@V?$allocator@PEAVEntity@@@std@@@std@@@Z)
+Graphics.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ) referenced in function "public: __cdecl Graphics::Graphics(int,int)" (??0Graphics@@QEAA@HH@Z)
+HumanInterface.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Joystick::isConnected(unsigned int)" (__imp_?isConnected@Joystick@sf@@SA_NI@Z) referenced in function "public: bool __cdecl HumanInterface::isJoystickConnected(void)" (?isJoystickConnected@HumanInterface@@QEAA_NXZ)
+HumanInterface.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Joystick::isButtonPressed(unsigned int,unsigned int)" (__imp_?isButtonPressed@Joystick@sf@@SA_NII@Z) referenced in function "public: void __cdecl HumanInterface::checkInput(void)" (?checkInput@HumanInterface@@QEAAXXZ)
+HumanInterface.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z) referenced in function "public: void __cdecl HumanInterface::checkEndInput(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?checkEndInput@HumanInterface@@QEAAXAEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual class b2Shape * __cdecl b2CircleShape::Clone(class b2BlockAllocator *)const " (?Clone@b2CircleShape@@UEBAPEAVb2Shape@@PEAVb2BlockAllocator@@@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl b2CircleShape::GetChildCount(void)const " (?GetChildCount@b2CircleShape@@UEBAHXZ)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl b2CircleShape::TestPoint(struct b2Transform const &,struct b2Vec2 const &)const " (?TestPoint@b2CircleShape@@UEBA_NAEBUb2Transform@@AEBUb2Vec2@@@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl b2CircleShape::RayCast(struct b2RayCastOutput *,struct b2RayCastInput const &,struct b2Transform const &,int)const " (?RayCast@b2CircleShape@@UEBA_NPEAUb2RayCastOutput@@AEBUb2RayCastInput@@AEBUb2Transform@@H@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl b2CircleShape::ComputeAABB(struct b2AABB *,struct b2Transform const &,int)const " (?ComputeAABB@b2CircleShape@@UEBAXPEAUb2AABB@@AEBUb2Transform@@H@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl b2CircleShape::ComputeMass(struct b2MassData *,float)const " (?ComputeMass@b2CircleShape@@UEBAXPEAUb2MassData@@M@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual class b2Shape * __cdecl b2PolygonShape::Clone(class b2BlockAllocator *)const " (?Clone@b2PolygonShape@@UEBAPEAVb2Shape@@PEAVb2BlockAllocator@@@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl b2PolygonShape::GetChildCount(void)const " (?GetChildCount@b2PolygonShape@@UEBAHXZ)
+Physics.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2PolygonShape::Set(struct b2Vec2 const *,int)" (?Set@b2PolygonShape@@QEAAXPEBUb2Vec2@@H@Z) referenced in function "public: class b2Body * __cdecl Physics::PhysicsObject(class b2World *,class Entity *)" (?PhysicsObject@Physics@@QEAAPEAVb2Body@@PEAVb2World@@PEAVEntity@@@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl b2PolygonShape::TestPoint(struct b2Transform const &,struct b2Vec2 const &)const " (?TestPoint@b2PolygonShape@@UEBA_NAEBUb2Transform@@AEBUb2Vec2@@@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl b2PolygonShape::RayCast(struct b2RayCastOutput *,struct b2RayCastInput const &,struct b2Transform const &,int)const " (?RayCast@b2PolygonShape@@UEBA_NPEAUb2RayCastOutput@@AEBUb2RayCastInput@@AEBUb2Transform@@H@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl b2PolygonShape::ComputeAABB(struct b2AABB *,struct b2Transform const &,int)const " (?ComputeAABB@b2PolygonShape@@UEBAXPEAUb2AABB@@AEBUb2Transform@@H@Z)
+Physics.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl b2PolygonShape::ComputeMass(struct b2MassData *,float)const " (?ComputeMass@b2PolygonShape@@UEBAXPEAUb2MassData@@M@Z)
+Physics.obj : error LNK2019: unresolved external symbol "public: class b2Fixture * __cdecl b2Body::CreateFixture(struct b2FixtureDef const *)" (?CreateFixture@b2Body@@QEAAPEAVb2Fixture@@PEBUb2FixtureDef@@@Z) referenced in function "public: class b2Body * __cdecl Physics::PhysicsObject(class b2World *,class Entity *)" (?PhysicsObject@Physics@@QEAAPEAVb2Body@@PEAVb2World@@PEAVEntity@@@Z)
+Physics.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2Body::SetTransform(struct b2Vec2 const &,float)" (?SetTransform@b2Body@@QEAAXAEBUb2Vec2@@M@Z) referenced in function "public: class b2Body * __cdecl Physics::PhysicsObject(class b2World *,class Entity *)" (?PhysicsObject@Physics@@QEAAPEAVb2Body@@PEAVb2World@@PEAVEntity@@@Z)
+Physics.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2Body::SetFixedRotation(bool)" (?SetFixedRotation@b2Body@@QEAAX_N@Z) referenced in function "public: class b2Body * __cdecl Physics::PhysicsObject(class b2World *,class Entity *)" (?PhysicsObject@Physics@@QEAAPEAVb2Body@@PEAVb2World@@PEAVEntity@@@Z)
+Physics.obj : error LNK2019: unresolved external symbol "public: __cdecl b2World::b2World(struct b2Vec2 const &)" (??0b2World@@QEAA@AEBUb2Vec2@@@Z) referenced in function "public: class b2World * __cdecl Physics::InitWorld(void)" (?InitWorld@Physics@@QEAAPEAVb2World@@XZ)
+Physics.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2World::SetContactListener(class b2ContactListener *)" (?SetContactListener@b2World@@QEAAXPEAVb2ContactListener@@@Z) referenced in function "public: class b2World * __cdecl Physics::InitWorld(void)" (?InitWorld@Physics@@QEAAPEAVb2World@@XZ)
+Physics.obj : error LNK2019: unresolved external symbol "public: class b2Body * __cdecl b2World::CreateBody(struct b2BodyDef const *)" (?CreateBody@b2World@@QEAAPEAVb2Body@@PEBUb2BodyDef@@@Z) referenced in function "public: class b2Body * __cdecl Physics::PhysicsObject(class b2World *,class Entity *)" (?PhysicsObject@Physics@@QEAAPEAVb2Body@@PEAVb2World@@PEAVEntity@@@Z)
+Physics.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2World::Step(float,int,int)" (?Step@b2World@@QEAAXMHH@Z) referenced in function "public: void __cdecl Physics::updatePhysicsWorld(class b2World *,class std::vector<class Entity *,class std::allocator<class Entity *> >)" (?updatePhysicsWorld@Physics@@QEAAXPEAVb2World@@V?$vector@PEAVEntity@@V?$allocator@PEAVEntity@@@std@@@std@@@Z)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class sf::String const &)" (__imp_??0String@sf@@QEAA@AEBV01@@Z) referenced in function "public: __cdecl RendWindow::RendWindow(unsigned short,unsigned short,class sf::String)" (??0RendWindow@@QEAA@GGVString@sf@@@Z)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z) referenced in function "public: void __cdecl RendWindow::initialise(void)" (?initialise@RendWindow@@QEAAXXZ)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::create(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_?create@Window@sf@@QEAAXVVideoMode@2@AEBVString@2@IAEBUContextSettings@2@@Z) referenced in function "public: void __cdecl RendWindow::initialise(void)" (?initialise@RendWindow@@QEAAXXZ)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ) referenced in function "public: bool __cdecl RendWindow::Init(void)" (?Init@RendWindow@@QEAA_NXZ)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z) referenced in function "public: void __cdecl RendWindow::initialise(void)" (?initialise@RendWindow@@QEAAXXZ)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ) referenced in function "public: void __cdecl RendWindow::display(void)" (?display@RendWindow@@QEAAXXZ)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z) referenced in function "public: void __cdecl RendWindow::clear(void)" (?clear@RendWindow@@QEAAXXZ)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: void __cdecl RendWindow::clear(void)" (?clear@RendWindow@@QEAAXXZ)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z) referenced in function "public: void __cdecl RendWindow::draw(class sf::CircleShape)" (?draw@RendWindow@@QEAAXVCircleShape@sf@@@Z)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(void)" (__imp_??0RenderWindow@sf@@QEAA@XZ) referenced in function "public: __cdecl RendWindow::RendWindow(unsigned short,unsigned short,class sf::String)" (??0RendWindow@@QEAA@GGVString@sf@@@Z)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ) referenced in function "int `public: __cdecl RendWindow::RendWindow(unsigned short,unsigned short,class sf::String)'::`1'::dtor$1" (?dtor$1@?0???0RendWindow@@QEAA@GGVString@sf@@@Z@4HA)
+RendWindow.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B) referenced in function "public: void __cdecl RendWindow::draw(class sf::CircleShape)" (?draw@RendWindow@@QEAAXVCircleShape@sf@@@Z)
+Sound.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::SoundBuffer::SoundBuffer(void)" (__imp_??0SoundBuffer@sf@@QEAA@XZ) referenced in function "private: void __cdecl MemoryManager<class sf::SoundBuffer>::Init(int)" (?Init@?$MemoryManager@VSoundBuffer@sf@@@@AEAAXH@Z)
+Sound.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::SoundBuffer::~SoundBuffer(void)" (__imp_??1SoundBuffer@sf@@QEAA@XZ) referenced in function "public: void * __cdecl sf::SoundBuffer::`vector deleting destructor'(unsigned int)" (??_ESoundBuffer@sf@@QEAAPEAXI@Z)
+..\Debug\Box2D.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\x64\Debug\CSC3224-GameEngine.exe : fatal error LNK1120: 103 unresolved externals

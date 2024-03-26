@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 739 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CSC3224-GameEngine.vcxproj -> C:\Users\Alex\source\repos\This-Folder\CSC3224-GameEngine\Release\CSC3224-GameEngine.exe

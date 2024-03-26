@@ -1,0 +1,11 @@
+﻿  Game.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\alex\source\repos\this-folder\csc3224-gameengine\csc3224-gameengine\main.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  HumanInterface.cpp
+  GameScene.cpp
+  GameCreator.cpp
+  CSC3224-GameEngine.vcxproj -> C:\Users\Alex\source\repos\This-Folder\CSC3224-GameEngine\Debug\CSC3224-GameEngine.exe

@@ -1,0 +1,43 @@
+﻿  Game.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game/Game.cpp')
+  
+  GameActions.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game/GameActions.cpp')
+  
+  GameCreator.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game/GameCreator.cpp')
+  
+  GameScene.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game/GameScene.cpp')
+  
+  main.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Collisions.cpp
+  Event.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SubSystems/Event.cpp')
+  
+  FileLoader.cpp
+  Generator.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SubSystems/Generator.cpp')
+  
+  Graphics.cpp
+  HumanInterface.cpp
+C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\CSC3224-GameEngine\SubSystems\Generator.h(63,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SubSystems/HumanInterface.cpp')
+  
+  Physics.cpp
+  RendWindow.cpp
+  Sound.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1474 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CSC3224-GameEngine.vcxproj -> C:\Users\alexh\source\repos\Personal-Clones\CSC3224-GameEngine\Release\CSC3224-GameEngine.exe

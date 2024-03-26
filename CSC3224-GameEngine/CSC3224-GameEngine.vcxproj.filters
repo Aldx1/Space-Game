@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{664cc1ee-7069-4b42-b15d-38ab34dee5ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subsystems">
+      <UniqueIdentifier>{3410059a-bde0-4e35-b698-55bea992669b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{4a2a4a6c-7c3c-40e3-b98d-9a7e39d077bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Objects">
+      <UniqueIdentifier>{439e1c0a-2961-4f19-bb5d-ab5b94381d57}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SubSystems\Collisions.cpp">
+      <Filter>Subsystems</Filter>
+    </ClCompile>
+    <ClCompile Include="SubSystems\FileLoader.cpp">
+      <Filter>Subsystems</Filter>
+    </ClCompile>
+    <ClCompile Include="SubSystems\Generator.cpp">
+      <Filter>Subsystems</Filter>
+    </ClCompile>
+    <ClCompile Include="SubSystems\Graphics.cpp">
+      <Filter>Subsystems</Filter>
+    </ClCompile>
+    <ClCompile Include="SubSystems\HumanInterface.cpp">
+      <Filter>Subsystems</Filter>
+    </ClCompile>
+    <ClCompile Include="SubSystems\Physics.cpp">
+      <Filter>Subsystems</Filter>
+    </ClCompile>
+    <ClCompile Include="SubSystems\RendWindow.cpp">
+      <Filter>Subsystems</Filter>
+    </ClCompile>
+    <ClCompile Include="SubSystems\Sound.cpp">
+      <Filter>Subsystems</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\GameActions.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\GameCreator.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\GameScene.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="SubSystems\Event.cpp">
+      <Filter>Subsystems</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ship.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Asteroid.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\Collisions.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\FileLoader.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\Generator.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\Graphics.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\HumanInterface.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\MemoryManager.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\Physics.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\RendWindow.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\Sound.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\GameActions.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\GameCreator.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\GameScene.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Asteroid.h">
+      <Filter>Game\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Bullet.h">
+      <Filter>Game\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Entity.h">
+      <Filter>Game\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Ship.h">
+      <Filter>Game\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="SubSystems\Event.h">
+      <Filter>Subsystems</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\DestroyedAsteroid.h">
+      <Filter>Game\Objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

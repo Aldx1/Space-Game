@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Box2D.vcxproj, GLEW.vcxproj, GLFW.vcxproj, IMGUI.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TestEntries.cpp
+c:\users\alex\source\repos\gas\box2d\testbed\tests\testentries.cpp : fatal error C1041: cannot open program database 'C:\Users\Alex\source\repos\gas\Box2D\Build\vs2017\Debug\vc141.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Test.cpp
+c:\users\alex\source\repos\gas\box2d\testbed\framework\test.cpp : fatal error C1041: cannot open program database 'C:\Users\Alex\source\repos\gas\Box2D\Build\vs2017\Debug\vc141.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Main.cpp
+c:\users\alex\source\repos\gas\box2d\testbed\framework\main.cpp : fatal error C1041: cannot open program database 'C:\Users\Alex\source\repos\gas\Box2D\Build\vs2017\Debug\vc141.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  DebugDraw.cpp
+c:\users\alex\source\repos\gas\box2d\testbed\framework\debugdraw.cpp : fatal error C1041: cannot open program database 'C:\Users\Alex\source\repos\gas\Box2D\Build\vs2017\Debug\vc141.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Generating Code...
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build

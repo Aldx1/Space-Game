@@ -1,0 +1,8 @@
+Cliff : 100
+Keith : 50
+Geoff : 30
+Alex : 18
+Alex : 13
+Steve : 9
+Alex : 7
+Barry : 5
